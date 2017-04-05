@@ -1,5 +1,6 @@
 {
   "name": "silverstripe/config",
+  "type": "silverstripe-module",
   "require": {
     "symfony/finder": "^v2.8",
     "symfony/yaml": "^2.8",
